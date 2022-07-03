@@ -2,6 +2,7 @@
 hide:
   - navigation
   - toc
+  - footer
 ---
 
 # DresdenE小屋门口的告示

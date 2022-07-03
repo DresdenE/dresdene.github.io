@@ -1,0 +1,37 @@
+site_name: DresdenE的小窝
+
+theme:
+  name: material
+  language: zh
+  font:
+    text: "Noto Sans"
+  features:
+    - navigation.indexes
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tracking
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - pymdownx.betterem
+  # Collapsible Admonition 
+  - pymdownx.details
+  # Code highlight
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  # Markdown style
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - toc:
+      permalink: true
+
+nav:
+  - 门前花园: index.md
+  - 小屋:
+    - house/index.md
+  - 小棚:
+    - garage/index.md

@@ -27,7 +27,7 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - toc:
-      permalink: true
+      permalink: false
 
 nav:
   - 门前花园: index.md

@@ -33,5 +33,14 @@ nav:
   - 门前花园: index.md
   - 小屋:
     - house/index.md
+    - 客厅:
+      - house/living_room/index.md
+    - 卧室:
+      - house/bedroom/index.md
+    - 书房:
+      - house/study/index.md
+    - 杂物间:
+      - house/storage/index.md
+      - 测试: house/storage/test.md
   - 小棚:
     - garage/index.md

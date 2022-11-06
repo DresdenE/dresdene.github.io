@@ -3,7 +3,6 @@ DefaultContentLanguage = 'zh'
 languageCode = 'zh-cn'
 title = 'DresdenE的巢穴'
 theme = 'diary'
-preserveTaxonomyNames = true
 
 [params]
   disableToC = true

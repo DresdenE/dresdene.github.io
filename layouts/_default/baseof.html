@@ -3,6 +3,10 @@
     {{- partial "head.html" . -}}
     <body>
         <style>
+            h3 {
+                margin: 20px auto;
+            }
+
             .stream-container {
                 {{ if isset .Params "disabletoc" }}
                     {{ if (.Params.disableToC) }}

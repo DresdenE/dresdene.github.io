@@ -77,3 +77,5 @@ hugo.linux
 
 # Temporary lock file while building
 /.hugo_build.lock
+
+favicon_io.zip

@@ -5,6 +5,7 @@ title = 'DresdenE的巢穴'
 theme = 'diary'
 
 [params]
+  favicon = "favicon.ico"
   disableToC = true
 
 [taxonomies]
